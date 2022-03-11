@@ -1,0 +1,41 @@
+  {"list1":[
+           {
+            "id":"001",
+            "renter":"1",
+            "location":"Roy",
+            "postcode":"2223",
+            "tel":"045162712"
+            } ,
+            {
+              "id":"001",
+              "renter":"1",
+              "location":"Roy",
+              "postcode":"2223",
+              "tel":"045162712"
+            },
+            {
+              "id":"001",
+              "renter":"1",
+              "location":"Roy",
+              "postcode":"2223",
+              "tel":"045162712"
+              } ,
+              {
+                "id":"001",
+                "renter":"1",
+                "location":"Roy",
+                "postcode":"2223",
+                "tel":"045162712"
+                } ,
+                {
+                  "id":"001",
+                  "renter":"1",
+                  "location":"Roy",
+                  "postcode":"2223",
+                  "tel":"045162712"
+                  }
+            
+         
+            ]
+      
+      }
