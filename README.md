@@ -1,4 +1,7 @@
 ﻿# capstone-project-9900-h18c-all-pass
+
+# Rental Inspection System With Flask and Vue3
+
 # Team member
 |name|zid|role|
 |:-:|:-:|:-:|
