@@ -1,0 +1,37 @@
+Week 1:
+1. Forming group and selecting project. 
+2. Creating the Jira project 
+3. Making background research about the project.
+Week 2:
+1. Holding a meeting to decide project functionalities 
+2. Start writing the project proposal
+Week 3:
+1. Finalising and submitting the proposal. 
+Start sprint 1. 
+1. Defining project database structure 
+2. Starting to create project database.
+Week 4:
+1. Finish the 1st version of the user profile modify module and property delete module. 
+2. Finish the base function for database operations.
+Week 5:
+1. Papering Demo A.
+2. Coding for the system mail function.
+Week 6:
+1. Starting Sprint 2 
+2. Completing Retrospective A.
+3. Finalise the project based on the feedback of Demo A.
+4. Starting to construct the HTML format email contains for modify user email, creating account and retrieving the password.
+Week 7:
+1. Discussing the design of itinerary function.
+2. Program for inspection request back-end functions.
+3. Constructing HTML format email for inspection request notification.
+Week 8:
+1. Program for itinerary generated with Google Map API.
+2. Papering for the Demo B.
+Week 9:
+1. Finishing itinerary back-end store and auto-notificate mail to the manager and tenant.
+2. Finishing tenant reject back-end coding.
+3. Finishing coding for generating .ics file based on the itinerary.
+4. Start writing report
+Week 10:
+Finishing report. Papering for final Demo.

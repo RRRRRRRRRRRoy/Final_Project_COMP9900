@@ -1,0 +1,53 @@
+Week 1
+Format group and then create the Jira project. 
+Select the project. After collecting the opinion of numbers, we decided to choose the 7th project.
+After discussion, we plan to develop the backend using Flask and SQLite while VUES for forwardend.
+As for route planning, we decided to use Google Maps API.
+ 
+
+Week 2
+Study Flask and read Google Maps API documentation. Try to analyze the feasibility of them. 
+Decide the functions and user stories of this project. 
+Start writing project proposal.
+
+
+Week 3
+Decide the final version of proposal.
+Start programming on the backend.
+
+
+Week 4
+Learn Flask and swagger. 
+Complete the code about property addition.  
+Try to program with Google Maps API.
+
+
+Week 5
+Prepare for first demo and help make links between frontend and backend.
+
+
+Week 6
+Complete function about property modifying. 
+Modify the scheme of database and change the property-addition module. 
+Complete the function which provides property information to frontend.
+
+
+Week 7
+Fix the bugs of functions. 
+Modify backend functions according to the requirement from the frontend.
+
+
+Week 8
+Prepare for demo B
+
+Week 9
+Start writing the report:
+Finish property table in model structure of the report
+Finish property management of the report
+Finish user table in model structure of the report
+
+Week10
+Finish writing the remaining report
+Check the reference of the report
+Check the submission
+Prepare for the final demo

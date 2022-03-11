@@ -1,0 +1,37 @@
+Week 1
+Discussion on the choice of project topic. Based on our abilities and experiences,
+we chose the 7th project as our target.
+We initiallly determined the front-end tools and back-end tools.
+
+Week 2
+Mainly discussed the functions (objectives) of our system.
+Assigned the work to each member.
+Made a few changes to the proposal.
+
+Week 3
+Learnt the back-end flask basic rules and skills.
+Started designing register and login functions of the system.
+
+Week 4
+Learnt the flask_restx and swagger methods
+completing the register and login functions
+
+Week 5
+Learnt the Google Map Direction Api operations
+
+Week 6
+Started planning route with Google Map Direction Api
+Return the optimal itinerary sequence to front-end
+
+Week 7 
+Fixed the related sequence format problems of the route planning 
+Prepared for Sprint 2
+
+Week 8
+Started writing report
+
+Week 9 
+Installed node.js front-end enginee for report and presentation
+
+Week 10
+Finished report and prepared for final presentation

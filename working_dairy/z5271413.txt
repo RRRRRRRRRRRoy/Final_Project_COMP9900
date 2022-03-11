@@ -1,0 +1,44 @@
+Week 1
+Group formation. The topic selection of the project was carefully discussed. 
+The initial decision was to develop the backend using Python (Flask or Django) and the front-end using VUE3.
+Roughly read Google Maps API documentation.
+
+
+Week 2
+Study VUE3 and Element-Plus UI to develop front end using VUE CLI.
+Some functionalities are discussed in group meeting, analyse the group's pros and cons.
+Start writing project proposal.
+
+
+Week 3
+Some basic structurs of Database and software, etc are determined and the proposal is finalised.
+Start progamming on the front-end, focusing on authorisation.
+
+
+Week 4
+Reconstruct back-end;
+Connect some functions, e.g. login, register, logout, get user information, prepare for demo 1.
+
+Week 5
+Prepare for first demo, fix bugs with auto-login after sucessfully register.
+
+Week 6
+Change UI of login and register, add autocomplete of email and display the password intensity tips.
+
+Week 7
+Design user profile component and the layout of the index page. Complete user profile modification,
+change password by email or old password, and finalise the user avatar update function.
+
+Week 8
+Read Google Maps JavaScript API document. Able to embed map, autocomplete and markers into Vue.
+Improve index page UI. Start to learn the directions of Google Maps JS API.
+Almost finish the functionality of edit user profile.
+
+Week 9
+Design the route plan page, including getting current location, automatically focusing in terms of 
+each location on Google Maps. Fix bugs like when a manager did not add any properties.
+Improve UI.
+
+Week 10
+Finalise the project, try to find bugs and then fix them. 
+Write the report.

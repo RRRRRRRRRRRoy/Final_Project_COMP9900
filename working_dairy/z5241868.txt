@@ -1,0 +1,56 @@
+Week1
+1. Design The Logo for the Rental Inspection System
+2. Draw the Demo of the Front-end with zihan Lin
+
+Week2
+1. Try the Google map API for web Developer and successfully
+2. Draw the physics model(draft) of ER diagram.
+3. Draw the System Architecture diagram(draft) for the system.
+
+Week3
+1. Draw the inspection report page, testing the basic function of post by Firebase.
+	The 1st version of the report page:
+		1. editing the content and post the content to the back-end
+2. Design the structure of the adding properties page. 
+	This page will include uploading image(single). 
+	Binding the information of tenant and properties.
+	By pressing the show location button to mark the location on the map.
+
+Week4
+1. Testing the data submission of add properties page
+2. Editing the report page(Adding 2 attributes title and date):
+	The 2nd version:
+		1. Editing the title of the report.
+		2. Catching the time stamp when submitting.
+
+problem: Setting the Google map in the which period VUE3 Life cycle?
+
+Week5
+1. Test and make vedio for demo1
+
+Week6
+1. Dive into canvas, problem: how to plugin the canvas into vue3
+	Canvas demo: https://github.com/OldManRoy/Canvas_Demo
+2. Reconstruct the add properties page and make it more responsive
+
+Week7
+1. Test the google map of add properties package --> success
+2. Make the add properties page more reasonable
+3. Start show property detail page
+
+Week8
+1. Change to use component vue-google-autocomplete
+2. Based on the properties detail page, to do the multiple selection for inspection
+3. Change the background like other pages
+
+Week 9
+1. Finish the report modify page and connect with the back-end
+2. Finish the report overview page and connect with the back-end
+3. Finish the Adding report page and connect with the back-end
+4. Setting up the system on the Lubuntu
+
+Week10
+1. Finish the report part of Adding inspection report
+2. Finish the Front-end technology of the report
+3. Finish the technology challenge of the report
+4. Finish the user document part of the report(based on Lubuntu)
