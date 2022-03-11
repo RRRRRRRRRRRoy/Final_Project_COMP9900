@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+<head>
+  <style>
+    /*#365638 */
+    /* #788F77 */
+    .H1_text{margin-right: auto; 
+            margin-left: 10px;;
+            margin-top:0;
+            margin-bottom: 0;
+            line-height: 60px;
+            font-weight: normal;
+            font-size: 40px;
+            font-family:"Times New Roman", Times, serif;
+            color: #365638;}
+    .logo{
+          position:absolute; 
+          margin-top: 10px;
+          margin-left: 10px;
+          width: 65px;
+          height: 62px;}
+    .line{
+          margin-top: -10px;
+          margin-bottom: 0;
+          background: rgba(15, 87, 126, 0.27);
+          border: 2px solid rgba(15, 87, 126, 0.23);
+          box-shadow: inset 0px 4px 10px rgba(0, 0, 0, 0.3);}
+    .Container{/*container for highlighting words*/
+                text-align:center;
+                font-size: 40px;
+                line-height:60px;
+                font-weight: bold;
+                font-family:"Times New Roman", Times, serif;
+                letter-spacing: 0%;
+                color: #0F577E;
+                border-radius: 92px;
+                background: rgba(54, 183, 145, 0.6);
+                border: 3px solid rgba(2, 85, 22, 0.38);}
+    .t_Container{ /*container for the main content*/
+                  margin-top: 25px;
+                  margin-right: auto; 
+                  margin-left:auto;
+                  width:520px; 
+                  height: 300px;
+                  /* text-align:center; */
+                  border-radius: 21px;
+                  background: #F7F7F7;
+                  box-sizing: border-box;
+                  border: 1px solid #000000;
+                  box-shadow: inset 0px 4px 10px rgba(0, 0, 0, 0.3);}
+    .text{
+          line-height: 30px;
+          font-size: 20px;
+          font-style: italic;
+          letter-spacing: 0%;
+          font-family:"Times New Roman", Times, serif;
+          color: #365638;}
+  </style>
+</head>
+<body>
+  <div>
+    <!-- <img src="logo1.png" class="logo" alt="website logo"> -->
+    <h1 class="H1_text">Rental_Inspection.com</h1>   
+    <hr class="line">    
+    <div class="t_Container">
+        <p class="text" style="margin:20px 20px ;">
+          Hi, {{manager_name}}<br>
+          We have received a request from you tenant <b>{{tenant}}</b>. He/she wishes you could visit them on <b>{{day}}</b>.</p>
+          <p class="text"style="margin:10px 20px;">This is an auto email, please do not reply.</p>
+    </div>
+  </div>
+  <span style="opacity: 0"> {{ timestamp }} </span>
+</body>
